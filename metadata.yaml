@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2704
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21427#Comic-History-of-the-United-States
 gutenberg_bookshelf:
 - Humor
 - United States
