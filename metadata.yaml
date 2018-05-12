@@ -1,0 +1,43 @@
+_repo: Comic-History-of-the-United-States_21427
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Opper, Frederick Burr
+    alias: Opper, F. (Frederick)
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '9918'
+    url: http://www.gutenberg.org/2009/agents/9918
+covers:
+- cover_type: archival
+  image_path: 21427-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar Wilson
+    - Nye, Edgar W. (Edgar Wilson)
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+description: ''
+gutenberg_bookshelf:
+- Humor
+- United States
+gutenberg_issued: '2007-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Humor'
+- !lcsh 'American wit and humor'
+- !lcc 'E151'
+- !lcsh 'Caricatures and cartoons -- United States'
+title: Comic History of the United States
+url: http://www.gutenberg.org/ebooks/21427
